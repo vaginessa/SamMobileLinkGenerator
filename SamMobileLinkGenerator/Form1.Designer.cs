@@ -132,7 +132,7 @@
             this.txtPS.Location = new System.Drawing.Point(114, 83);
             this.txtPS.Name = "txtPS";
             this.txtPS.Size = new System.Drawing.Size(470, 25);
-            this.txtPS.TabIndex = 2;
+            this.txtPS.TabIndex = 1;
             // 
             // txtUS
             // 
@@ -144,7 +144,7 @@
             this.txtUS.Location = new System.Drawing.Point(114, 52);
             this.txtUS.Name = "txtUS";
             this.txtUS.Size = new System.Drawing.Size(470, 25);
-            this.txtUS.TabIndex = 2;
+            this.txtUS.TabIndex = 0;
             // 
             // btnGit
             // 
@@ -171,7 +171,7 @@
             this.btn.Location = new System.Drawing.Point(141, 168);
             this.btn.Name = "btn";
             this.btn.Size = new System.Drawing.Size(401, 23);
-            this.btn.TabIndex = 1;
+            this.btn.TabIndex = 3;
             this.btn.Text = "Generate";
             this.btn.UseVisualStyleBackColor = false;
             this.btn.Click += new System.EventHandler(this.btn_Click);
@@ -199,7 +199,7 @@
             this.btnCopy.Location = new System.Drawing.Point(12, 206);
             this.btnCopy.Name = "btnCopy";
             this.btnCopy.Size = new System.Drawing.Size(87, 23);
-            this.btnCopy.TabIndex = 1;
+            this.btnCopy.TabIndex = 4;
             this.btnCopy.Text = "Copy";
             this.btnCopy.UseVisualStyleBackColor = false;
             this.btnCopy.Click += new System.EventHandler(this.btnCopy_Click);
