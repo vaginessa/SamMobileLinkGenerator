@@ -43,5 +43,10 @@ namespace SamMobileLinkGenerator
         {
             thirteenForm1.Text += "   " + ProductVersion;
         }
+
+        private void btnGit_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/ghost1372/SamMobileLinkGenerator");
+        }
     }
 }

@@ -159,7 +159,7 @@
             this.btnGit.TabIndex = 1;
             this.btnGit.Text = "GitHub";
             this.btnGit.UseVisualStyleBackColor = false;
-            this.btnGit.Click += new System.EventHandler(this.btn_Click);
+            this.btnGit.Click += new System.EventHandler(this.btnGit_Click);
             // 
             // btn
             // 
