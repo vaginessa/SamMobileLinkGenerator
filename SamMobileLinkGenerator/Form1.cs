@@ -15,7 +15,6 @@ namespace SamMobileLinkGenerator
         {
             InitializeComponent();
         }
-        //http://dl.sammobile.com/M1FbQzklJDtRKjQxQjcuTUZYOSA5J0AsNChUKCA4O1oOARlJUyA5RSJXV0cjUlNFQ1BcRV9JTg4EAhYSSVJfREdfWEZe/G920PVPS4DQF1_G920PSPT4DQF1_SPR.zip
         private void btn_Click(object sender, EventArgs e)
         {
             if (txtUS.Text == string.Empty || txtPS.Text==string.Empty)
